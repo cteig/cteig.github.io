@@ -7,42 +7,42 @@
   <updated>2020-11-11T11:51:31+01:00</updated>
   <id>/author/martin/feed.xml</id>
 
-  
-  
-  
 
-  
+
+
+
+
     <title type="html">Ghost | </title>
-  
 
-  
-    <subtitle>The professional publishing platform</subtitle>
-  
 
-  
 
-  
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  
+    <subtitle>Kjelsås skoles musikkorps</subtitle>
 
-  
-  
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <entry>
       <title type="html">I Have a Dream</title>
       <link href="/i-have-a-dream" rel="alternate" type="text/html" title="I Have a Dream" />
@@ -143,32 +143,32 @@
 
 &lt;p&gt;&lt;em&gt;Thank God Almighty, we are free at last!&lt;/em&gt;&lt;/p&gt;</content>
 
-      
-      
-      
-      
-      
+
+
+
+
+
 
       <author>
           <name>Martin Luther King</name>
-        
-        
+
+
       </author>
 
-      
 
-      
+
+
         <category term="speeches" />
-      
 
-      
+
+
         <summary type="html">I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.</summary>
-      
 
-      
-      
+
+
+
     </entry>
-  
+
     <entry>
       <title type="html">The Purpose of Education</title>
       <link href="/the-purpose-of-education" rel="alternate" type="text/html" title="The Purpose of Education" />
@@ -189,30 +189,30 @@
 
 &lt;p&gt;If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, “brethren!” Be careful, teachers!&lt;/p&gt;</content>
 
-      
-      
-      
-      
-      
+
+
+
+
+
 
       <author>
           <name>Martin Luther King</name>
-        
-        
+
+
       </author>
 
-      
 
-      
+
+
         <category term="speeches" />
-      
 
-      
+
+
         <summary type="html">As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</summary>
-      
 
-      
-      
+
+
+
     </entry>
-  
+
 </feed>

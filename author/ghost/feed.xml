@@ -44,12 +44,12 @@
 
 
     <entry>
-      <title type="html">Welcome to Ghost</title>
-      <link href="/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
+      <title type="html">Velkommen til Kjelsås skoles musikkorps</title>
+      <link href="/welcome" rel="alternate" type="text/html" title="Velkommen til Kjelsås skoles musikkorps" />
       <published>2017-07-27T12:00:00+02:00</published>
       <updated>2017-07-27T12:00:00+02:00</updated>
       <id>/welcome</id>
-      <content type="html" xml:base="/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+      <content type="html" xml:base="/welcome">&lt;p&gt;Hey! Velkommen til Kjelsås skoles musikkorps&lt;/p&gt;
 
 &lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
 
@@ -85,7 +85,7 @@
 
 
 
-        <summary type="html">Hey! Welcome to Ghost, it’s great to have you :)</summary>
+        <summary type="html">Hey! Velkommen til Kjelsås skoles musikkorps</summary>
 
 
 
